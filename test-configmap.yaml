@@ -1,1 +1,7 @@
-
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-configmap
+  namespace: newnamespace
+data:
+  testing: 'one-two-three'
