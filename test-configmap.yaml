@@ -5,3 +5,4 @@ metadata:
   namespace: razeedeploy
 data:
   testing: 'one-two-three'
+  testing2: '4-5-6'
